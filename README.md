@@ -1,5 +1,6 @@
 sse-streamer
 ============
+[![Build Status](https://travis-ci.org/Alvinlz/sse-streamer.svg?branch=master)](https://travis-ci.org/Alvinlz/sse-streamer)
 
 A helper module for Server-Sent Events
 
