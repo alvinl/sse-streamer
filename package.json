@@ -1,0 +1,12 @@
+{
+  "name": "sse-streamer",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Alvin Lazaro <me@alvinl.com> (https://alvinl.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alvinlz/sse-streamer.git"
+  },
+  "main": "./lib/index",
+  "license": "MIT"
+}
