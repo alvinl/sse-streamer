@@ -1,6 +1,6 @@
 {
   "name": "sse-streamer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "author": "Alvin Lazaro <me@alvinl.com> (https://alvinl.com/)",
   "repository": {
@@ -8,5 +8,14 @@
     "url": "https://github.com/Alvinlz/sse-streamer.git"
   },
   "main": "./lib/index",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "NODE_ENV=test node_modules/.bin/mocha -R spec"
+  },
+  "devDependencies": {
+    "should": "~3.3.0",
+    "supertest": "~0.11.0",
+    "express": "~4.0.0",
+    "mocha": "~1.18.2"
+  }
 }
