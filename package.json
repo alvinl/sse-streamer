@@ -5,7 +5,7 @@
   "author": "Alvin Lazaro <me@alvinl.com> (https://alvinl.com/)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Alvinlz/sse-streamer.git"
+    "url": "https://github.com/alvinl/sse-streamer.git"
   },
   "main": "./lib/index",
   "license": "MIT",
