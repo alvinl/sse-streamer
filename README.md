@@ -7,7 +7,7 @@ A helper module for Server-Sent Events
 ## Install
 
 ```
-npm install git://github.com/Alvinlz/sse-streamer.git
+npm install git://github.com/alvinl/sse-streamer.git
 ```
 
 ## Example
